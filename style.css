@@ -1,6 +1,6 @@
 :root {
-    --primary: #1B1B2A;
-    --secondary: #242538;
+    --primary: #000000;
+    --secondary: #12172A;
     --terciary: #FFFFFF;
     --quaternary: #5865F2;
     --green: #27AF69;
@@ -26,7 +26,7 @@ header {
 }
 
 nav {
-    width: 1280px;
+    width: 1000px;
     height: 70%;
 
     display: flex;
@@ -75,7 +75,7 @@ main {
     display: flex;
     flex-direction: row;
 
-    width: 1280px;
+    width: 1000px;
     gap: 30px;
 }
 
